@@ -3,6 +3,7 @@
 - 📖 I am a Physics undergraduate!
 - 🔭 I’m currently working on a QCourse551-1 project, whereby I'm improving the Quantum Phase Estimation algorithm! See: https://gitlab.com/qworld/qeducation/qcourse551-1/-/issues/2
 - 🌱 I’m currently learning more Quantum Computing with QClass23/24!
+- Gitlab: https://gitlab.com/syralie
   
 <!--
 **syralie/syralie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
