@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📖 I am a Physics undergraduate!
-- 🔭 I’m currently working on a QCourse551-1 project, whereby I'm testing out variants of the Quantum Phase Estimation algorithm! See: https://gitlab.com/qworld/qeducation/qcourse551-1/-/issues/2
+- 🔭 I’m currently working on a QCourse551-1 project, where I'm testing out variants of the Quantum Phase Estimation algorithm! See: https://gitlab.com/qworld/qeducation/qcourse551-1/-/issues/2
 - 🌱 I’m currently learning more Quantum Computing with QClass23/24!
 - Gitlab: https://gitlab.com/syralie
   
