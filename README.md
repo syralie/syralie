@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 📖 I am a Physics undergraduate!
-- (Work in Progress)
+- 📖 I am a Dîplome d'ingénieur student (X2024) at École Polytechnique, intending to specialise in Computer Science
+- 📚 Concurrently a double degree rising junior at the National University of Singapore, majoring in Physics.
+- 🔭 I'm currently working on quantum simulations.
+- 🌱 I’m currently learning software engineering during my free time.
   
 <!--
 **syralie/syralie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
