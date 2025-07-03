@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 - 📖 I am a Dîplome d'ingénieur student (X2024) at École Polytechnique, intending to specialise in Computer Science
-- 📚 Concurrently a double degree rising junior at the National University of Singapore, majoring in Physics.
-- 🔭 I'm currently working on quantum simulations.
-- 🌱 I’m currently learning software engineering during my free time.
+- 📚 Concurrently a double degree, rising junior at the National University of Singapore, majoring in Physics.
+- 🔭 I'm starting on working on quantum simulations with my professors at NUS!
+- 💻 I'll also be doing a cybersecurity project with my professors at Polytechnique.
+- ✍️ I'll be doing the Qiskit Global Summer School 2025 too, it'll be my third time participating!
+- 🌱 I’m currently learning software engineering and competitive programming during my free time.
   
 <!--
 **syralie/syralie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
