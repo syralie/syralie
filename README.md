@@ -6,6 +6,7 @@
 - 💻 I'll also be doing a cybersecurity project with my professors at Polytechnique.
 - ✍️ I'll be doing the Qiskit Global Summer School 2025 too, it'll be my third time participating!
 - 🌱 I’m currently learning software engineering and competitive programming during my free time.
+- - 📫 How to reach me: lsm.syralie@gmail.com
   
 <!--
 **syralie/syralie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
