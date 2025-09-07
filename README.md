@@ -4,7 +4,7 @@
 - 📚 Concurrently a double degree, rising junior at the National University of Singapore, majoring in Physics.
 - 🔭 I'm starting on working on quantum simulations with my professors at NUS!
 - 💻 I'll also be doing a cybersecurity project with my professors at Polytechnique.
-- ✍️ I'll be doing the Qiskit Global Summer School 2025 too, it'll be my third time participating!
+- ✍️ I've recently completed the Qiskit Global Summer School 2025!
 - 🌱 I’m currently learning software engineering and competitive programming during my free time.
 - - 📫 How to reach me: lsm.syralie@gmail.com
   
